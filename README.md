@@ -1,4 +1,4 @@
-<h1 align="center">SaaS Intelligence Copilot</h1>
+<h1 align="center">SaaS InsightAI</h1>
 
 <p align="center">
   <b>Answers should be calculated, not invented.</b><br>
